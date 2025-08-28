@@ -138,4 +138,4 @@ print("Predicted Answer:", answer)
 
 * **Paper**: *Improving Math Problem Solving in Large Language Models Through Categorization and Strategy Tailoring* – AICCONF 2025 ([arXiv][1]).
 * **Code derivation**: based originally on the Kaggle notebook \[*Improved Code Interpretation*] by Abdur Rafae.
-* **Your contribution**: Custom-curated datasets, subject-classifier, integration into LLM pipeline with tailored strategies.
+* **My contribution**: Custom-curated datasets, subject-classifier, integration into LLM pipeline with tailored strategies.
