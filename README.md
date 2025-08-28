@@ -7,11 +7,11 @@ This repository contains code corresponding to the paper:
 
 ### BibTeX
 ```bibtex
-@article{akella2024improving,
+@inproceedings{akella2024improving,
   title={Improving Math Problem Solving in Large Language Models Through Categorization and Strategy Tailoring},
   author={Akella, Amogh},
-  journal={arXiv preprint arXiv:2411.00042},
-  year={2024}
+  booktitle={AICCONF},
+  year={2025}
 }
 ```
 
