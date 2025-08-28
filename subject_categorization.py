@@ -42,14 +42,14 @@ def train_subj():
   freq = []
   for x in alg:
     words = x.split()
-  for word in words:
-    lowerword = word.lower()
-    if lowerword in wordlist:
-      index = wordlist.index(lowerword)
-      freq[index][0] += 1
-    else:
-      wordlist.append(lowerword)
-      freq.append([1, 0, 0, 0])
+    for word in words:
+      lowerword = word.lower()
+      if lowerword in wordlist:
+        index = wordlist.index(lowerword)
+        freq[index][0] += 1
+      else:
+        wordlist.append(lowerword)
+        freq.append([1, 0, 0, 0])
   for x in cp:
     words = x.split()
     for word in words:
