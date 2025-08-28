@@ -1,5 +1,4 @@
-````markdown
-# AIMO Solver
+## AIMO Solver
 
 This repository contains code corresponding to the paper:
 
@@ -14,7 +13,6 @@ This repository contains code corresponding to the paper:
   journal={arXiv preprint arXiv:2411.00042},
   year={2024}
 }
-````
 
 ---
 
